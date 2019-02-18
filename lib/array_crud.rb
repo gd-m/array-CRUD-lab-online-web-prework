@@ -3,6 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
+  even_number = [2, 4, 6, 8]
 
 end
 
